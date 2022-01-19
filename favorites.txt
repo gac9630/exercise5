@@ -1,3 +1,9 @@
+Favorite Food:
 Chicken
 Pizza
 Steak
+
+Favorite Movies:
+Lord of the Rings
+The Blind Side
+Rudy
